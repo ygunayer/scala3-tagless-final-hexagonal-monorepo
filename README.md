@@ -1,5 +1,5 @@
 ## Description
-Just a fun project where I explore effect systems (in this case, cats-effect) and hexagonal architecture in Scala 3 in order to stay up-to-date on the latest development practices in Scala.
+Just a fun project where I explore effect systems (in this case, cats-effect), tagless final and hexagonal architecture in Scala 3 in order to stay up-to-date on the latest development practices in Scala.
 
 I'm not using Scala in professional capacity at the moment, so please don't expect this repo to be a perfect representation of the current conventions.
 
